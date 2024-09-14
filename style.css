@@ -1,0 +1,45 @@
+
+*{
+    margin: 0%;
+    border: 0%;
+}
+
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    margin: 4px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 1rem 1rem rgb(0, 0,0,0.5);
+    font-size: 7vmin;
+    background-color: rgb(79, 107, 65);
+    text-emphasis-color: rgb(0,0,0);
+    
+}
+.container{
+    height: 70vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+.games{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    gap: 1vmin;
+    
+
+}
+
+body{
+ background-color: rgb(205, 205, 95);
+ text-align: center;
+}
+ 
+
